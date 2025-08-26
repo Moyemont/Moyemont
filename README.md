@@ -1,9 +1,9 @@
 ### Olá, eu sou o Yves Moyemont 👋
 
-- 🔭 Hoje trabalho como Analista Fiscal Jr
-- 🌱 Estudando HTML5, CSS3, JavaScript
+
+- 🌱 Objetivo: Atuar como QA Engineer Jr / Analista de Testes, aplicando conhecimentos em testes manuais e automatizados para garantir a qualidade de software.
 - 💬 Contate - me no email: yves.moyemont@gmail.com
-- 😄 Ele/Dele
+
 
 <div align="center">
   <a href="https://github.com/moyemont">
